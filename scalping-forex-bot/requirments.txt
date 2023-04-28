@@ -1,0 +1,8 @@
+boto3
+pandas
+numpy
+scikit-learn
+bayesian-optimization
+keras
+tensorflow
+backtrader
